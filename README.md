@@ -1,4 +1,4 @@
-### Hi there 👋
+### Transform Transport is a non-profit research foundation focused on innovation in mobility and transport planning
 
 <!--
 **TransformTransport/TransformTransport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
