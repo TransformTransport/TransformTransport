@@ -2,8 +2,8 @@ Transform Transport is a non-profit research foundation that provides innovative
 
 We focus on
 + [Urban Mobility Metrics](https://transformtransport.org/research/urban-mobility-metrics/)
-+ [Livable Streets] (https://transformtransport.org/research/livable-streets/)
-+ [Inclusive Mobility] (https://transformtransport.org/research/inclusive-mobility/)
++ [Livable Streets](https://transformtransport.org/research/livable-streets/)
++ [Inclusive Mobility](https://transformtransport.org/research/inclusive-mobility/)
 
 
 
